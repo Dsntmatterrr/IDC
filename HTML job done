@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>QAHM1-DONE</title>
+  <meta charset="UTF-8">
+ </head>
+   <body bgcolor="LightGray">
+    <h1><b><strong>This is my homework</strong></b></h1>
+  <b>I do like html because:</b>
+     <ol>
+       <li>It is simple</li>
+       <li>it it updated with new technologies recently</li>
+       <li>it can be written in a notepad</li>
+     </ol>
+<br>
+<br>
+<br>
+<hr> 
+     <strong>Use next sites if you need a search:</strong>
+     <ul>
+      <li><a href="https://www.google.com/" target="_blank">Google</a></li>
+      <li><a href="https://www.google.com/imghp?hl=en">Search by image</a></li>
+     </ul>
+    <table>
+     <tr>
+       <td><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/a/ab/%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%C2%AB%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82_%D0%BE%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%C2%BB.jpg/253px-%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BF%D0%B5%D1%80%D0%B2%D0%BE%D0%B3%D0%BE_%D0%B8%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%C2%AB%D0%9B%D0%B0%D0%B1%D0%B8%D1%80%D0%B8%D0%BD%D1%82_%D0%BE%D1%82%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9%C2%BB.jpg" alt="Лабиринт Отражений" width="125" height="200">
+       </td>
+       <td><i>/«Лабири́нт отраже́ний»/Сергей Лукьяненко/Очень интересная книга/</i></td>
+     </tr>
+<br>
+     <tr>
+       <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS8bz81jcmQCKkx07HlBYrVaYClRba2fsqlPLvCXMfx1lmv5s7x&usqp=CAU" alt="Недотепа" width="125" height="200"
+       </td>
+       <td><i>/«Недотёпа»/Сергей Лукьяненко/Очень интересная книга/<i></td>
+     </tr>
+<br>
+     <tr>
+       <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQVOTs966pG1enAKM2MQpXwsvRVA4Iena01Ja1dbb3ykUkoHjdO&usqp=CAU" alt="Спектр" width="125" heigh="200"
+       </td>
+       <td><i>/«Спектр»/Сергей Лукъяненко/Очень интересная книга/<i></td>
+    </tr>  
+<br>
+    <tr>
+      <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR_EQ5n4ZCRURWJSpbHftNq-tGhquBftfyrfWjC7PbrwCNng2KV&usqp=CAU" alt="Танцы на снегу"
+width="125" heigh="200"
+      </td>
+      <td><i>/Та́нцы на снегу́»/Сергей Лукьяненко/Очень интересная книга/<i></td>
+    </tr>
+<br>
+    <tr>
+      <td><img src="https://-tbn0.gstatic.com/images?q=tbn%3AANd9GcSX2prVEFwtkXRKZb9-EsQeRbULTs37kCEbYz7lycGfeCLXa9P2&usqp=CAU" alt="Холодные берега" width="125" heigh="200"
+      </td>
+      <td><i>/«Холодные берега»/Сергей Лукъяненко/Очень интересная книга/<i></td>
+     </tr>
+<br>
+    </table>
+<br>
+<br>
+
+    <footer>
+      Автор статьи: Илья Белодед
+<br>
+      Контактные данные: Email:beloded.ilya@gmail.com
+<br>
+      Номер телефона: +380931201617
+    </footer>
+   </body>
+</html>
+</html>
